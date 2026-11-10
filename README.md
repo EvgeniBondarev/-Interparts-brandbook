@@ -13,7 +13,7 @@
 ![font](https://img.shields.io/badge/шрифт-Onest-e83827?style=flat-square)
 ![deps](https://img.shields.io/badge/зависимостей-0-6183a2?style=flat-square)
 
-[Открыть брендбук](#-как-открыть) · [Цвет](#-цвет) · [Типографика](#-типографика) · [Компоненты](#-компоненты) · [Шаблоны](#-шаблоны-страниц) · [Подключение](#-подключение)
+[**Открыть онлайн**](https://evgenibondarev.github.io/-Interparts-brandbook/) · [Запустить локально](#-как-открыть) · [Цвет](#-цвет) · [Типографика](#-типографика) · [Компоненты](#-компоненты) · [Шаблоны](#-шаблоны-страниц) · [Подключение](#-подключение)
 
 </div>
 
@@ -34,6 +34,10 @@
 <img src="docs/screenshots/01-intro.png" alt="Введение" width="100%">
 
 ## 🚀 Как открыть
+
+**Онлайн:** https://evgenibondarev.github.io/-Interparts-brandbook/
+
+**Локально:**
 
 ```bash
 git clone https://github.com/EvgeniBondarev/-Interparts-brandbook.git
